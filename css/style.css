@@ -5,8 +5,7 @@ html {
 body {
     height: 100%;
     background-image: url("https://salvagedstars.files.wordpress.com/2011/03/dont.jpg");
-     background-repeat: no-repeat;
-    background-size: 900 px;
+    background-size: cover;
 }
 a {
     text-decoration: none;
