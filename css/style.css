@@ -5,10 +5,12 @@ html {
 body {
     height: 100%;
     background-image: url("https://salvagedstars.files.wordpress.com/2011/03/dont.jpg");
-    background-size: cover;
+    background-size: 1500px;
 }
 a {
-    text-decoration: none;
+    text-decoration: underline overline wavy blue;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 45px;
 }
 
 .main {
@@ -17,4 +19,11 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.header {
+    text-align: left;
+    font-size: 65px;
+    font-family: 'Monoton', cursive;
+    color: #3336FF
+    margin: 10px 0px 15px 5px;
 }
