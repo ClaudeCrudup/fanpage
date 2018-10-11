@@ -21,9 +21,15 @@ a {
     margin: 15px;
 }
 .header {
+    padding: 10px 0px 5px 5px;
     text-align: left;
     font-size: 65px;
     font-family: 'Monoton', cursive;
     color: #3336FF
-    margin: 10px 0px 15px 5px;
+}
+iframe{
+    padding: 0px 5px 0px 10px;
+}
+img {
+    width: 350px;
 }
