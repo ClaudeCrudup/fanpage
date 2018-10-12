@@ -4,8 +4,7 @@ html {
 
 body {
     height: 100%;
-    background-image: url("https://salvagedstars.files.wordpress.com/2011/03/dont.jpg");
-    background-size: 1500px;
+    background-color: #CE5AF2
 }
 a {
     text-decoration: underline overline wavy blue;
@@ -29,4 +28,7 @@ a {
 }
 iframe{
     padding: 0px 5px 0px 10px;
+}
+.thumbnail-image {
+    width:300px;
 }
